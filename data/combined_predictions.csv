@@ -1,0 +1,381 @@
+home_team,away_team,preds,home_win_prob,draw_prob,away_win_prob,true_labels
+Brentford,Arsenal,Away team win,33.21,28.25,38.53,Home team win
+Manchester United,Leeds United,Home team win,53.28,24.36,22.36,Home team win
+Burnley,Brighton & Hove Albion,Home team win,41.37,28.82,29.8,Away team win
+Chelsea,Crystal Palace,Home team win,54.2,23.61,22.19,Home team win
+Everton,Southampton,Home team win,46.96,29.32,23.72,Home team win
+Leicester City,Wolverhampton Wanderers,Home team win,43.7,31.37,24.93,Home team win
+Watford,Aston Villa,Away team win,31.51,28.78,39.71,Home team win
+Norwich City,Liverpool,Away team win,24.53,24.41,51.06,Away team win
+Newcastle United,West Ham United,Away team win,31.48,29.66,38.87,Away team win
+Tottenham Hotspur,Manchester City,Away team win,31.06,24.81,44.13,Home team win
+Liverpool,Burnley,Home team win,56.27,21.21,22.52,Home team win
+Aston Villa,Newcastle United,Home team win,39.86,30.56,29.58,Home team win
+Crystal Palace,Brentford,Home team win,40.96,30.15,28.9,Draw
+Leeds United,Everton,Away team win,34.16,30.82,35.03,Draw
+Manchester City,Norwich City,Home team win,55.4,22.95,21.65,Home team win
+Brighton & Hove Albion,Watford,Home team win,38.53,31.35,30.13,Home team win
+Southampton,Manchester United,Away team win,24.79,25.46,49.75,Draw
+Wolverhampton Wanderers,Tottenham Hotspur,Away team win,30.67,30.22,39.11,Away team win
+Arsenal,Chelsea,Away team win,29.93,29.2,40.86,Away team win
+West Ham United,Leicester City,Home team win,35.05,31.09,33.85,Home team win
+Manchester City,Arsenal,Home team win,53.42,22.38,24.2,Home team win
+Aston Villa,Brentford,Home team win,43.25,30.21,26.54,Draw
+Brighton & Hove Albion,Everton,Away team win,31.6,31.08,37.32,Away team win
+Newcastle United,Southampton,Home team win,38.36,29.87,31.77,Draw
+Norwich City,Leicester City,Away team win,26.14,27.75,46.11,Away team win
+West Ham United,Crystal Palace,Home team win,44.35,30.67,24.99,Draw
+Liverpool,Chelsea,Home team win,43.84,29.09,27.07,Draw
+Burnley,Leeds United,Home team win,37.61,30.07,32.32,Draw
+Tottenham Hotspur,Watford,Home team win,53.6,23.83,22.57,Home team win
+Wolverhampton Wanderers,Manchester United,Away team win,27.52,28.8,43.68,Away team win
+Crystal Palace,Tottenham Hotspur,Away team win,27.76,29.42,42.82,Home team win
+Arsenal,Norwich City,Home team win,45.81,28.62,25.56,Home team win
+Brentford,Brighton & Hove Albion,Away team win,34.36,29.13,36.51,Away team win
+Leicester City,Manchester City,Away team win,28.42,27.69,43.89,Away team win
+Manchester United,Newcastle United,Home team win,54.17,23.62,22.21,Home team win
+Southampton,West Ham United,Away team win,29.96,30.39,39.65,Draw
+Watford,Wolverhampton Wanderers,Away team win,29.59,27.8,42.61,Away team win
+Chelsea,Aston Villa,Home team win,50.63,27.18,22.19,Home team win
+Leeds United,Liverpool,Away team win,25.99,25.63,48.38,Away team win
+Everton,Burnley,Home team win,41.43,28.9,29.67,Home team win
+Newcastle United,Leeds United,Home team win,36.83,30.78,32.39,Draw
+Wolverhampton Wanderers,Brentford,Home team win,49.29,26.37,24.33,Away team win
+Burnley,Arsenal,Away team win,32.96,28.55,38.49,Away team win
+Liverpool,Crystal Palace,Home team win,56.27,21.21,22.52,Home team win
+Manchester City,Southampton,Home team win,56.13,21.93,21.94,Draw
+Norwich City,Watford,Home team win,37.44,30.61,31.95,Away team win
+Aston Villa,Everton,Home team win,35.65,30.65,33.71,Home team win
+Brighton & Hove Albion,Leicester City,Away team win,26.96,29.34,43.7,Home team win
+West Ham United,Manchester United,Away team win,26.86,29.84,43.3,Away team win
+Tottenham Hotspur,Chelsea,Home team win,36.35,27.47,36.18,Away team win
+Chelsea,Manchester City,Away team win,32.12,29.3,38.58,Away team win
+Manchester United,Aston Villa,Home team win,53.37,24.23,22.4,Away team win
+Everton,Norwich City,Home team win,47.55,27.52,24.92,Home team win
+Leeds United,West Ham United,Away team win,29.96,30.39,39.65,Away team win
+Leicester City,Burnley,Home team win,46.23,27.64,26.13,Draw
+Watford,Newcastle United,Home team win,39.53,30.24,30.22,Draw
+Brentford,Liverpool,Away team win,25.32,24.44,50.25,Draw
+Southampton,Wolverhampton Wanderers,Away team win,34.12,30.67,35.21,Away team win
+Arsenal,Tottenham Hotspur,Away team win,32.1,29.31,38.6,Home team win
+Crystal Palace,Brighton & Hove Albion,Home team win,39.08,29.59,31.32,Draw
+Manchester United,Everton,Home team win,48.75,27.08,24.17,Draw
+Burnley,Norwich City,Home team win,40.66,29.99,29.34,Draw
+Chelsea,Southampton,Home team win,54.2,23.61,22.19,Home team win
+Leeds United,Watford,Home team win,42.57,31.4,26.03,Home team win
+Wolverhampton Wanderers,Newcastle United,Home team win,46.33,28.23,25.44,Home team win
+Brighton & Hove Albion,Arsenal,Away team win,32.4,28.58,39.01,Draw
+Crystal Palace,Leicester City,Away team win,28.22,29.56,42.21,Draw
+Tottenham Hotspur,Aston Villa,Home team win,50.72,26.0,23.28,Home team win
+West Ham United,Brentford,Home team win,52.86,24.56,22.58,Away team win
+Liverpool,Manchester City,Home team win,36.47,27.25,36.28,Draw
+Watford,Liverpool,Away team win,24.53,24.41,51.06,Away team win
+Aston Villa,Wolverhampton Wanderers,Home team win,37.28,30.82,31.9,Away team win
+Leicester City,Manchester United,Away team win,31.5,29.44,39.07,Home team win
+Manchester City,Burnley,Home team win,55.34,22.51,22.14,Home team win
+Norwich City,Brighton & Hove Albion,Home team win,37.0,29.78,33.22,Draw
+Southampton,Leeds United,Home team win,36.77,30.11,33.12,Home team win
+Brentford,Chelsea,Away team win,25.9,26.57,47.53,Away team win
+Everton,West Ham United,Home team win,35.89,29.38,34.73,Away team win
+Newcastle United,Tottenham Hotspur,Away team win,26.19,26.81,47.0,Away team win
+Arsenal,Crystal Palace,Home team win,45.17,30.37,24.46,Draw
+Arsenal,Aston Villa,Home team win,38.18,28.08,33.74,Home team win
+Chelsea,Norwich City,Home team win,55.4,22.95,21.65,Home team win
+Crystal Palace,Newcastle United,Home team win,39.53,30.24,30.22,Draw
+Everton,Watford,Home team win,43.08,29.29,27.63,Away team win
+Leeds United,Wolverhampton Wanderers,Home team win,35.91,30.15,33.94,Draw
+Southampton,Burnley,Home team win,36.58,31.6,31.82,Draw
+Brighton & Hove Albion,Manchester City,Away team win,24.68,23.94,51.37,Away team win
+Brentford,Leicester City,Away team win,26.17,25.81,48.02,Away team win
+West Ham United,Tottenham Hotspur,Away team win,30.81,29.63,39.56,Home team win
+Manchester United,Liverpool,Home team win,35.53,30.17,34.31,Away team win
+Leicester City,Arsenal,Home team win,39.78,29.26,30.97,Away team win
+Burnley,Brentford,Home team win,45.54,28.31,26.15,Home team win
+Liverpool,Brighton & Hove Albion,Home team win,55.25,22.64,22.11,Draw
+Manchester City,Crystal Palace,Home team win,55.56,22.22,22.23,Away team win
+Newcastle United,Chelsea,Away team win,24.48,25.13,50.39,Away team win
+Watford,Southampton,Home team win,36.23,31.9,31.88,Away team win
+Tottenham Hotspur,Manchester United,Away team win,33.08,27.37,39.55,Away team win
+Norwich City,Leeds United,Away team win,35.76,28.45,35.79,Away team win
+Aston Villa,West Ham United,Home team win,36.77,30.11,33.12,Away team win
+Wolverhampton Wanderers,Everton,Home team win,39.78,29.26,30.97,Home team win
+Southampton,Aston Villa,Home team win,37.71,29.47,32.82,Home team win
+Manchester United,Manchester City,Away team win,30.56,28.03,41.41,Away team win
+Brentford,Norwich City,Home team win,34.39,33.59,32.02,Away team win
+Chelsea,Burnley,Home team win,52.72,23.67,23.62,Draw
+Crystal Palace,Wolverhampton Wanderers,Home team win,35.13,30.2,34.67,Home team win
+Brighton & Hove Albion,Newcastle United,Home team win,36.34,30.46,33.2,Draw
+Arsenal,Watford,Home team win,43.39,29.76,26.85,Home team win
+Everton,Tottenham Hotspur,Away team win,30.3,29.36,40.33,Draw
+Leeds United,Leicester City,Away team win,27.55,30.27,42.19,Draw
+West Ham United,Liverpool,Away team win,25.58,26.82,47.61,Home team win
+Leicester City,Chelsea,Home team win,36.06,30.27,33.67,Away team win
+Aston Villa,Brighton & Hove Albion,Home team win,41.37,28.82,29.8,Home team win
+Burnley,Crystal Palace,Home team win,40.53,29.89,29.58,Draw
+Newcastle United,Brentford,Home team win,41.75,29.38,28.87,Draw
+Norwich City,Southampton,Home team win,34.84,32.21,32.95,Home team win
+Watford,Manchester United,Away team win,24.42,25.07,50.51,Home team win
+Wolverhampton Wanderers,West Ham United,Home team win,40.3,29.64,30.06,Home team win
+Liverpool,Arsenal,Home team win,51.1,24.71,24.19,Home team win
+Manchester City,Everton,Home team win,54.58,21.83,23.6,Home team win
+Tottenham Hotspur,Leeds United,Home team win,54.73,22.83,22.44,Home team win
+Arsenal,Newcastle United,Home team win,41.84,30.6,27.56,Home team win
+Crystal Palace,Aston Villa,Away team win,34.48,31.0,34.52,Away team win
+Liverpool,Southampton,Home team win,56.67,21.18,22.15,Home team win
+Norwich City,Wolverhampton Wanderers,Away team win,30.88,30.92,38.19,Draw
+Brighton & Hove Albion,Leeds United,Home team win,36.0,30.95,33.05,Draw
+Brentford,Everton,Away team win,29.33,29.19,41.49,Home team win
+Leicester City,Watford,Home team win,48.85,28.09,23.06,Home team win
+Manchester City,West Ham United,Home team win,55.34,22.51,22.14,Home team win
+Chelsea,Manchester United,Home team win,34.5,31.03,34.47,Draw
+Newcastle United,Norwich City,Home team win,40.44,30.13,29.43,Draw
+Leeds United,Crystal Palace,Home team win,42.62,30.57,26.81,Home team win
+Southampton,Leicester City,Away team win,27.32,29.2,43.48,Draw
+Watford,Chelsea,Away team win,25.11,26.56,48.33,Away team win
+West Ham United,Brighton & Hove Albion,Home team win,42.47,28.14,29.39,Draw
+Wolverhampton Wanderers,Burnley,Home team win,39.92,29.19,30.89,Draw
+Aston Villa,Manchester City,Away team win,24.69,26.05,49.26,Away team win
+Everton,Liverpool,Away team win,26.36,25.82,47.82,Away team win
+Tottenham Hotspur,Brentford,Home team win,54.82,23.16,22.02,Home team win
+Manchester United,Arsenal,Home team win,50.64,25.39,23.98,Home team win
+West Ham United,Chelsea,Away team win,32.74,30.17,37.09,Home team win
+Newcastle United,Burnley,Home team win,34.81,32.28,32.91,Home team win
+Southampton,Brighton & Hove Albion,Home team win,38.29,29.0,32.71,Draw
+Wolverhampton Wanderers,Liverpool,Away team win,26.8,26.42,46.78,Away team win
+Watford,Manchester City,Away team win,24.53,24.41,51.06,Away team win
+Leeds United,Brentford,Home team win,44.9,30.13,24.97,Draw
+Manchester United,Crystal Palace,Home team win,51.66,25.21,23.14,Home team win
+Tottenham Hotspur,Norwich City,Home team win,55.67,21.96,22.36,Home team win
+Aston Villa,Leicester City,Home team win,36.85,29.47,33.68,Home team win
+Everton,Arsenal,Home team win,35.89,29.38,34.73,Home team win
+Brentford,Watford,Home team win,35.85,33.1,31.05,Home team win
+Manchester City,Wolverhampton Wanderers,Home team win,54.69,23.42,21.88,Home team win
+Arsenal,Southampton,Home team win,45.21,30.73,24.06,Home team win
+Chelsea,Leeds United,Home team win,53.62,23.91,22.48,Home team win
+Liverpool,Aston Villa,Home team win,55.16,22.77,22.07,Home team win
+Norwich City,Manchester United,Away team win,24.34,25.0,50.66,Away team win
+Burnley,West Ham United,Home team win,37.07,29.65,33.28,Draw
+Leicester City,Newcastle United,Home team win,46.27,26.79,26.94,Home team win
+Crystal Palace,Everton,Home team win,35.56,29.74,34.7,Home team win
+Norwich City,Aston Villa,Away team win,30.98,30.01,39.01,Away team win
+Manchester City,Leeds United,Home team win,54.82,23.25,21.93,Home team win
+Brighton & Hove Albion,Wolverhampton Wanderers,Away team win,33.25,30.89,35.86,Away team win
+Crystal Palace,Southampton,Home team win,38.77,31.6,29.63,Draw
+Arsenal,West Ham United,Home team win,36.75,29.8,33.45,Home team win
+Chelsea,Everton,Home team win,49.36,26.76,23.88,Draw
+Liverpool,Newcastle United,Home team win,56.67,21.18,22.15,Home team win
+Leeds United,Arsenal,Away team win,28.68,29.43,41.89,Away team win
+Newcastle United,Manchester City,Away team win,24.53,24.41,51.06,Away team win
+Wolverhampton Wanderers,Chelsea,Away team win,27.28,29.07,43.65,Draw
+Tottenham Hotspur,Liverpool,Away team win,35.15,26.7,38.15,Draw
+Manchester City,Leicester City,Home team win,52.38,24.67,22.95,Home team win
+Norwich City,Arsenal,Away team win,27.11,28.46,44.43,Away team win
+Tottenham Hotspur,Crystal Palace,Home team win,54.25,22.99,22.77,Home team win
+West Ham United,Southampton,Home team win,45.49,29.89,24.62,Away team win
+Aston Villa,Chelsea,Away team win,27.63,27.67,44.7,Away team win
+Brighton & Hove Albion,Brentford,Home team win,40.78,30.72,28.51,Home team win
+Newcastle United,Manchester United,Away team win,24.03,24.67,51.3,Draw
+Brighton & Hove Albion,Chelsea,Away team win,24.8,25.8,49.41,Unknown yet
+Brighton & Hove Albion,Tottenham Hotspur,Away team win,26.14,27.19,46.67,Unknown yet
+Burnley,Tottenham Hotspur,Away team win,28.26,28.15,43.59,Unknown yet
+Chelsea,Arsenal,Home team win,50.49,25.31,24.2,Unknown yet
+Brentford,Manchester United,Away team win,24.97,23.72,51.31,Unknown yet
+Burnley,Watford,Home team win,36.04,32.48,31.48,Unknown yet
+Leicester City,Tottenham Hotspur,Home team win,34.9,31.24,33.86,Unknown yet
+Manchester United,Brighton & Hove Albion,Home team win,52.89,26.14,20.97,Unknown yet
+Watford,Crystal Palace,Home team win,36.19,30.73,33.07,Unknown yet
+Aston Villa,Burnley,Home team win,36.44,31.78,31.78,Unknown yet
+Liverpool,Leeds United,Home team win,52.16,26.77,21.07,Unknown yet
+Wolverhampton Wanderers,Watford,Home team win,44.41,29.22,26.38,Unknown yet
+Burnley,Everton,Away team win,33.42,29.69,36.89,Unknown yet
+Arsenal,Liverpool,Away team win,30.0,26.23,43.77,Unknown yet
+Leeds United,Aston Villa,Home team win,41.4,28.34,30.26,Unknown yet
+Arsenal,Wolverhampton Wanderers,Home team win,37.56,30.28,32.16,Unknown yet
+Everton,Newcastle United,Home team win,41.39,30.53,28.09,Unknown yet
+Leicester City,Norwich City,Home team win,53.73,22.97,23.29,Unknown yet
+Southampton,Newcastle United,Home team win,39.79,28.33,31.88,Unknown yet
+Crystal Palace,Norwich City,Home team win,40.85,30.37,28.78,Unknown yet
+Southampton,Tottenham Hotspur,Away team win,28.62,27.58,43.81,Unknown yet
+Watford,West Ham United,Away team win,30.73,29.27,40.01,Unknown yet
+Leicester City,Liverpool,Away team win,31.2,25.87,42.93,Unknown yet
+Chelsea,Brighton & Hove Albion,Home team win,51.95,26.96,21.09,Unknown yet
+Brentford,Manchester City,Away team win,24.97,23.72,51.31,Unknown yet
+Manchester United,Burnley,Home team win,53.03,25.95,21.03,Unknown yet
+Arsenal,Manchester City,Away team win,26.35,25.5,48.14,Unknown yet
+Watford,Tottenham Hotspur,Away team win,27.95,27.84,44.22,Unknown yet
+Crystal Palace,West Ham United,Away team win,32.09,28.51,39.41,Unknown yet
+Brentford,Aston Villa,Away team win,33.29,27.01,39.7,Unknown yet
+Everton,Brighton & Hove Albion,Home team win,42.68,30.09,27.23,Unknown yet
+Leeds United,Burnley,Home team win,41.08,30.72,28.2,Unknown yet
+Chelsea,Liverpool,Home team win,37.74,28.72,33.55,Unknown yet
+Manchester United,Wolverhampton Wanderers,Home team win,48.56,27.31,24.13,Unknown yet
+Southampton,Brentford,Home team win,43.57,28.92,27.51,Unknown yet
+Everton,Leicester City,Home team win,36.16,30.36,33.48,Unknown yet
+West Ham United,Norwich City,Home team win,48.0,26.73,25.27,Unknown yet
+Brighton & Hove Albion,Crystal Palace,Home team win,36.41,30.26,33.33,Unknown yet
+Manchester City,Chelsea,Home team win,41.28,29.5,29.22,Unknown yet
+Burnley,Leicester City,Away team win,30.55,28.99,40.47,Unknown yet
+Newcastle United,Watford,Home team win,35.85,31.74,32.41,Unknown yet
+Norwich City,Everton,Away team win,28.86,27.81,43.33,Unknown yet
+Wolverhampton Wanderers,Southampton,Home team win,41.77,31.75,26.49,Unknown yet
+Aston Villa,Manchester United,Away team win,25.28,25.59,49.12,Unknown yet
+Liverpool,Brentford,Home team win,53.37,26.61,20.02,Unknown yet
+West Ham United,Leeds United,Home team win,40.54,31.24,28.22,Unknown yet
+Tottenham Hotspur,Arsenal,Home team win,39.86,29.66,30.47,Unknown yet
+Watford,Norwich City,Home team win,41.06,30.26,28.68,Unknown yet
+Everton,Aston Villa,Home team win,39.02,29.12,31.86,Unknown yet
+Arsenal,Burnley,Home team win,41.23,31.94,26.83,Unknown yet
+Brentford,Wolverhampton Wanderers,Away team win,28.27,28.41,43.33,Unknown yet
+Leeds United,Newcastle United,Home team win,41.73,29.03,29.24,Unknown yet
+Manchester United,West Ham United,Home team win,50.82,26.42,22.75,Unknown yet
+Southampton,Manchester City,Away team win,25.14,24.48,50.38,Unknown yet
+Crystal Palace,Liverpool,Away team win,25.9,25.23,48.87,Unknown yet
+Leicester City,Brighton & Hove Albion,Home team win,47.98,28.35,23.67,Unknown yet
+Chelsea,Tottenham Hotspur,Home team win,39.57,30.93,29.5,Unknown yet
+Newcastle United,Everton,Away team win,32.63,28.99,38.38,Unknown yet
+West Ham United,Watford,Home team win,45.65,29.16,25.19,Unknown yet
+Burnley,Manchester United,Away team win,25.53,24.86,49.61,Unknown yet
+Manchester City,Brentford,Home team win,50.22,30.5,19.28,Unknown yet
+Norwich City,Crystal Palace,Home team win,36.89,29.57,33.54,Unknown yet
+Tottenham Hotspur,Southampton,Home team win,50.75,25.34,23.9,Unknown yet
+Aston Villa,Leeds United,Home team win,35.42,31.55,33.03,Unknown yet
+Liverpool,Leicester City,Home team win,46.82,28.11,25.07,Unknown yet
+Wolverhampton Wanderers,Arsenal,Home team win,38.77,29.53,31.69,Unknown yet
+Manchester United,Southampton,Home team win,54.63,24.31,21.06,Unknown yet
+Brentford,Crystal Palace,Home team win,36.55,28.0,35.45,Unknown yet
+Everton,Leeds United,Home team win,37.07,32.32,30.61,Unknown yet
+Watford,Brighton & Hove Albion,Home team win,40.74,29.01,30.25,Unknown yet
+Norwich City,Manchester City,Away team win,24.82,24.17,51.01,Unknown yet
+Burnley,Liverpool,Away team win,25.9,25.23,48.87,Unknown yet
+Newcastle United,Aston Villa,Home team win,34.7,31.24,34.06,Unknown yet
+Tottenham Hotspur,Wolverhampton Wanderers,Home team win,38.17,30.73,31.1,Unknown yet
+Leicester City,West Ham United,Home team win,42.16,29.24,28.6,Unknown yet
+West Ham United,Newcastle United,Home team win,42.76,29.62,27.62,Unknown yet
+Arsenal,Brentford,Home team win,50.46,25.57,23.97,Unknown yet
+Aston Villa,Watford,Home team win,37.29,31.8,30.92,Unknown yet
+Brighton & Hove Albion,Burnley,Home team win,36.84,32.84,30.32,Unknown yet
+Crystal Palace,Chelsea,Away team win,24.56,26.2,49.24,Unknown yet
+Liverpool,Norwich City,Home team win,55.01,24.36,20.63,Unknown yet
+Southampton,Everton,Away team win,32.09,28.51,39.41,Unknown yet
+Manchester City,Tottenham Hotspur,Home team win,46.88,28.03,25.09,Unknown yet
+Leeds United,Manchester United,Away team win,27.25,26.01,46.74,Unknown yet
+Wolverhampton Wanderers,Leicester City,Home team win,36.66,31.26,32.08,Unknown yet
+Southampton,Norwich City,Home team win,41.27,30.68,28.05,Unknown yet
+Leeds United,Tottenham Hotspur,Away team win,30.63,28.56,40.81,Unknown yet
+Brentford,Newcastle United,Away team win,34.63,27.92,37.45,Unknown yet
+Brighton & Hove Albion,Aston Villa,Home team win,37.55,30.15,32.3,Unknown yet
+Crystal Palace,Burnley,Home team win,35.06,33.2,31.74,Unknown yet
+Manchester United,Watford,Home team win,54.19,24.32,21.49,Unknown yet
+West Ham United,Wolverhampton Wanderers,Home team win,36.16,30.36,33.48,Unknown yet
+Everton,Manchester City,Away team win,24.81,25.45,49.73,Unknown yet
+Chelsea,Leicester City,Home team win,44.66,30.49,24.86,Unknown yet
+Aston Villa,Southampton,Home team win,36.51,31.85,31.64,Unknown yet
+Burnley,Chelsea,Away team win,24.94,26.6,48.46,Unknown yet
+Leicester City,Leeds United,Home team win,44.58,30.04,25.39,Unknown yet
+Liverpool,West Ham United,Home team win,48.82,28.02,23.17,Unknown yet
+Manchester City,Manchester United,Home team win,38.96,29.17,31.87,Unknown yet
+Newcastle United,Brighton & Hove Albion,Home team win,40.87,28.95,30.19,Unknown yet
+Norwich City,Brentford,Home team win,37.61,30.95,31.44,Unknown yet
+Tottenham Hotspur,Everton,Home team win,40.59,30.2,29.21,Unknown yet
+Watford,Arsenal,Away team win,32.92,27.97,39.11,Unknown yet
+Wolverhampton Wanderers,Crystal Palace,Home team win,44.71,27.9,27.39,Unknown yet
+Arsenal,Leicester City,Home team win,36.16,30.36,33.48,Unknown yet
+Brentford,Burnley,Home team win,34.08,32.7,33.22,Unknown yet
+Brighton & Hove Albion,Liverpool,Away team win,25.3,24.04,50.66,Unknown yet
+Chelsea,Newcastle United,Home team win,53.01,25.47,21.51,Unknown yet
+Crystal Palace,Manchester City,Away team win,25.14,24.48,50.38,Unknown yet
+Everton,Wolverhampton Wanderers,Home team win,36.16,30.36,33.48,Unknown yet
+Leeds United,Norwich City,Home team win,42.17,30.95,26.88,Unknown yet
+Manchester United,Tottenham Hotspur,Home team win,40.04,30.69,29.27,Unknown yet
+Southampton,Watford,Home team win,39.04,31.24,29.72,Unknown yet
+West Ham United,Aston Villa,Home team win,40.59,29.19,30.22,Unknown yet
+Aston Villa,Arsenal,Home team win,35.99,30.69,33.31,Unknown yet
+Burnley,Southampton,Home team win,35.1,32.92,31.98,Unknown yet
+Leicester City,Brentford,Home team win,55.7,22.52,21.78,Unknown yet
+Liverpool,Manchester United,Home team win,38.47,29.54,31.98,Unknown yet
+Manchester City,Brighton & Hove Albion,Home team win,55.22,23.57,21.2,Unknown yet
+Newcastle United,Crystal Palace,Home team win,35.83,30.28,33.89,Unknown yet
+Norwich City,Chelsea,Away team win,24.26,25.87,49.86,Unknown yet
+Tottenham Hotspur,West Ham United,Home team win,42.59,29.53,27.88,Unknown yet
+Watford,Everton,Away team win,30.73,29.27,40.01,Unknown yet
+Wolverhampton Wanderers,Leeds United,Home team win,41.44,30.94,27.62,Unknown yet
+Brighton & Hove Albion,Norwich City,Home team win,36.62,33.2,30.18,Unknown yet
+Burnley,Manchester City,Away team win,25.14,24.48,50.38,Unknown yet
+Chelsea,Brentford,Home team win,54.64,24.39,20.98,Unknown yet
+Crystal Palace,Arsenal,Away team win,33.39,27.6,39.02,Unknown yet
+Leeds United,Southampton,Home team win,40.43,31.06,28.51,Unknown yet
+Liverpool,Watford,Home team win,55.01,24.36,20.63,Unknown yet
+Manchester United,Leicester City,Home team win,47.95,28.13,23.92,Unknown yet
+Tottenham Hotspur,Newcastle United,Home team win,52.57,24.33,23.1,Unknown yet
+West Ham United,Everton,Home team win,39.72,28.58,31.69,Unknown yet
+Wolverhampton Wanderers,Aston Villa,Home team win,43.55,27.49,28.97,Unknown yet
+Arsenal,Brighton & Hove Albion,Home team win,42.52,31.07,26.41,Unknown yet
+Aston Villa,Tottenham Hotspur,Away team win,28.42,28.31,43.27,Unknown yet
+Brentford,West Ham United,Away team win,28.22,27.42,44.36,Unknown yet
+Everton,Manchester United,Away team win,28.15,27.86,43.99,Unknown yet
+Leicester City,Crystal Palace,Home team win,49.3,27.03,23.67,Unknown yet
+Manchester City,Liverpool,Home team win,39.89,29.86,30.25,Unknown yet
+Newcastle United,Wolverhampton Wanderers,Away team win,33.6,30.42,35.98,Unknown yet
+Norwich City,Burnley,Draw,33.48,33.62,32.9,Unknown yet
+Southampton,Chelsea,Away team win,24.56,26.2,49.24,Unknown yet
+Watford,Leeds United,Home team win,35.4,31.5,33.1,Unknown yet
+Aston Villa,Liverpool,Away team win,25.65,25.96,48.39,Unknown yet
+Everton,Crystal Palace,Home team win,41.86,30.09,28.05,Unknown yet
+Leeds United,Chelsea,Away team win,24.66,27.59,47.75,Unknown yet
+Manchester United,Norwich City,Home team win,56.74,21.98,21.28,Unknown yet
+Newcastle United,Leicester City,Away team win,28.48,27.7,43.82,Unknown yet
+Southampton,Arsenal,Away team win,32.69,27.88,39.43,Unknown yet
+Tottenham Hotspur,Brighton & Hove Albion,Home team win,49.63,28.11,22.26,Unknown yet
+Watford,Brentford,Home team win,41.12,29.91,28.97,Unknown yet
+West Ham United,Burnley,Home team win,41.84,31.25,26.91,Unknown yet
+Wolverhampton Wanderers,Manchester City,Away team win,27.59,25.09,47.32,Unknown yet
+Arsenal,Manchester United,Away team win,29.01,27.51,43.48,Unknown yet
+Brentford,Tottenham Hotspur,Away team win,25.45,26.47,48.08,Unknown yet
+Brighton & Hove Albion,Southampton,Home team win,36.84,32.84,30.32,Unknown yet
+Burnley,Wolverhampton Wanderers,Away team win,33.75,30.84,35.41,Unknown yet
+Chelsea,West Ham United,Home team win,49.7,26.45,23.85,Unknown yet
+Crystal Palace,Leeds United,Home team win,35.23,31.83,32.94,Unknown yet
+Leicester City,Aston Villa,Home team win,46.05,27.52,26.43,Unknown yet
+Liverpool,Everton,Home team win,51.45,24.57,23.98,Unknown yet
+Manchester City,Watford,Home team win,55.5,23.19,21.31,Unknown yet
+Norwich City,Newcastle United,Home team win,37.84,29.6,32.56,Unknown yet
+Aston Villa,Norwich City,Home team win,44.74,29.04,26.22,Unknown yet
+Everton,Chelsea,Away team win,25.65,29.09,45.26,Unknown yet
+Leeds United,Manchester City,Away team win,25.14,24.48,50.38,Unknown yet
+Manchester United,Brentford,Home team win,55.21,24.08,20.71,Unknown yet
+Newcastle United,Liverpool,Away team win,24.91,25.22,49.87,Unknown yet
+Southampton,Crystal Palace,Home team win,39.67,29.53,30.8,Unknown yet
+Tottenham Hotspur,Leicester City,Home team win,39.17,30.02,30.81,Unknown yet
+Watford,Burnley,Home team win,34.66,33.4,31.94,Unknown yet
+West Ham United,Arsenal,Home team win,35.51,30.29,34.2,Unknown yet
+Wolverhampton Wanderers,Brighton & Hove Albion,Home team win,44.77,28.31,26.92,Unknown yet
+Arsenal,Leeds United,Home team win,39.84,31.29,28.87,Unknown yet
+Brentford,Southampton,Home team win,36.13,32.12,31.76,Unknown yet
+Brighton & Hove Albion,Manchester United,Away team win,24.97,23.72,51.31,Unknown yet
+Burnley,Aston Villa,Home team win,35.47,30.02,34.51,Unknown yet
+Chelsea,Wolverhampton Wanderers,Home team win,46.73,28.85,24.42,Unknown yet
+Crystal Palace,Watford,Home team win,36.46,32.27,31.27,Unknown yet
+Leicester City,Everton,Home team win,40.16,29.89,29.95,Unknown yet
+Liverpool,Tottenham Hotspur,Home team win,42.38,29.18,28.44,Unknown yet
+Manchester City,Newcastle United,Home team win,55.5,23.19,21.31,Unknown yet
+Norwich City,West Ham United,Away team win,28.19,28.07,43.74,Unknown yet
+Aston Villa,Crystal Palace,Home team win,36.66,30.53,32.81,Unknown yet
+Everton,Brentford,Home team win,51.23,24.58,24.19,Unknown yet
+Leeds United,Brighton & Hove Albion,Home team win,42.63,29.68,27.69,Unknown yet
+Manchester United,Chelsea,Home team win,37.08,31.23,31.69,Unknown yet
+Newcastle United,Arsenal,Away team win,30.34,27.47,42.19,Unknown yet
+Southampton,Liverpool,Away team win,27.93,25.4,46.67,Unknown yet
+Tottenham Hotspur,Burnley,Home team win,50.86,24.8,24.34,Unknown yet
+Watford,Leicester City,Away team win,28.81,28.69,42.5,Unknown yet
+West Ham United,Manchester City,Away team win,25.32,25.64,49.04,Unknown yet
+Wolverhampton Wanderers,Norwich City,Home team win,47.86,26.94,25.2,Unknown yet
+Arsenal,Everton,Home team win,40.12,29.28,30.6,Unknown yet
+Brentford,Leeds United,Away team win,31.3,28.75,39.96,Unknown yet
+Brighton & Hove Albion,West Ham United,Away team win,31.09,29.42,39.49,Unknown yet
+Burnley,Newcastle United,Home team win,39.04,28.68,32.28,Unknown yet
+Chelsea,Watford,Home team win,53.27,25.1,21.62,Unknown yet
+Crystal Palace,Manchester United,Away team win,25.14,24.48,50.38,Unknown yet
+Leicester City,Southampton,Home team win,46.41,29.59,24.01,Unknown yet
+Liverpool,Wolverhampton Wanderers,Home team win,49.33,25.05,25.62,Unknown yet
+Manchester City,Aston Villa,Home team win,55.5,23.19,21.31,Unknown yet
+Norwich City,Tottenham Hotspur,Away team win,25.65,27.36,46.99,Unknown yet
