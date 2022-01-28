@@ -26,7 +26,7 @@ if (home_team != '-' and away_team != '-') and (home_team != away_team):
     if predict_result:
         predicted_result = combined_predictions[
             (combined_predictions.home_team==home_team) & (combined_predictions.away_team==away_team)
-        ].preds.values[0]
+        ].prediction.values[0]
         if predicted_result == 'Away team win':
             st.write(f'Predicted results is {away_team} win')
         elif predicted_result == 'Home team win':
@@ -38,13 +38,13 @@ if (home_team != '-' and away_team != '-') and (home_team != away_team):
     if predict_proba:
         predicted_probabilities_home = combined_predictions[
             (combined_predictions.home_team == home_team) & (combined_predictions.away_team == away_team)
-            ].home_win_prob.values[0]
+            ].home_win_probability.values[0]
         predicted_probabilities_draw = combined_predictions[
             (combined_predictions.home_team == home_team) & (combined_predictions.away_team == away_team)
-            ].draw_prob.values[0]
+            ].draw_probability.values[0]
         predicted_probabilities_away = combined_predictions[
             (combined_predictions.home_team == home_team) & (combined_predictions.away_team == away_team)
-            ].away_win_prob.values[0]
+            ].away_win_probability.values[0]
         st.write(f'Predicted probability of {home_team} win: {predicted_probabilities_home}%')
         st.write(f'\nPredicted probability of draw: {predicted_probabilities_draw}%')
         st.write(f'\nPredicted probability of {away_team}: {predicted_probabilities_away}%')
@@ -53,7 +53,7 @@ if (home_team != '-' and away_team != '-') and (home_team != away_team):
     if true_result:
         correct_result = combined_predictions[
             (combined_predictions.home_team==home_team) & (combined_predictions.away_team==away_team)
-        ].true_labels.values[0]
+        ].actual_result.values[0]
         if correct_result == 'Away team win':
             st.write(f'Actual result is {away_team} win')
         elif correct_result == 'Home team win':
