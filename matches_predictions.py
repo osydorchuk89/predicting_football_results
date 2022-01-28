@@ -14,7 +14,8 @@ st.write(
     probabilities of three possible outcomes (home team win, draw, away team win), and the true result
     of the match. If the match between the selected teams hasn't happened yet, the true result will be
     unknown.
-    """)
+    """
+)
 
 home_team = st.selectbox('Choose home team', teams_2021)
 away_team = st.selectbox('Choose away team', teams_2021)
