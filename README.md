@@ -94,19 +94,21 @@ Using the validation method described above, I trained and evaluated performance
 |	LGBMClassifier | 52.11% | 19.11% |
 
 Given that all classification algorithms demonstrated comparable results, I decided to proceed with tuning boosting algorithsm, XGBoost and LightGBM, given their bigger potential for improvement by changing their hyperparameters. After tuning XGBoost and LightGBM, I was able to improve their accuracy scores to 55.84% and 55.74% respectively. 
-However, after examining the distribution of predictions and comparing them against actual results, I noticed that the models signigficantly underestimates probabilitis of draw and significantly overestimates probabilities of home wins. To address this, I manually changes the threshholds for predictions, so that the models were slightly more likely to predict draws and slightly less likely to predict home wins. After this, the accuracy of predictions decreased slightly, but the number of critical errors dropped significantly:
-
-| Model | Accuracy | Critical errors |
-| - | - | - |
-| Tuned XGBoost | 55.84% | 21.16% |
-|	Tuned XGBoost with customized threshhold | 54.58% | 15.68% |
-|	Tuned LightGBM | 55.74% | 21.74% |
-|	Tuned LightGBM with customized threshhold | 55.32% | 19.42% |
+However, after examining the distribution of predictions and comparing them against actual results, I noticed that the models signigficantly underestimates probabilitis of draw and significantly overestimates probabilities of home wins. To address this, I manually changes the thresholds for predictions, so that the models were slightly more likely to predict draws and slightly less likely to predict home wins. After this, the accuracy of predictions decreased slightly, but the number of critical errors dropped significantly.
 
 ## Making predictions
 
 Using the tuned boosting algorithms with customized threshold, I predicted the outcomes of matches in the test dataset, i.e. from the ongoing 2021/2022 season. I compared these predictions against baseline, i.e. predicting that all matches will result in home win, and with predictions made by LogisticRegression, RandomForest, and tuned XGBoost and LightGBM with default thresholds.
-Among them, Tuned XGBoost with customized threshhold showed the best results with **56.07% accuracy** and **14.95% critical errors**.
+Among them, Tuned XGBoost with customized threshold showed the best results with **56.07% accuracy** and **14.95% critical errors**.
+
+| Model |	Accuracy |	Critical errors |	
+| - |	- |	- |		
+| LogisticRegression |	51.40% |	21.96% |	
+| Random Forest |	50.93% |	20.09% |	
+| Tuned XGBoost |	54.67% |	18.69% |	
+| **Tuned XGboost with customized threshold** |	**56.07%** |	**14.95%** |	
+| Tuned LightGBM |	51.40% | 21.96% |	
+| Tuned LightGBM with customized threshold |	51.40% |	18.22% |	
 
 ![alt text](https://github.com/osydorchuk89/predicting_football_results/blob/main/images/predictions_accuracy.png)
 
