@@ -26,6 +26,7 @@ Data for the project was collected from various sources and included information
 * FIFA rankings of players from 2011/2012 to 2021/2022 seasons - Kaggle datasets by [Dhia Elhak Goumri](https://www.kaggle.com/justdhia/fifa-players) and [Alex](https://www.kaggle.com/cashncarry/fifa-22-complete-player-dataset)
 * FIFA rankings of teams from 2011/2012 to 2021/2022 seasons - scraped from [FIFA Index](https://www.fifaindex.com/teams/)
 * Rankings of managers from 2011/2012 to 2019/2020 seasons - scraped from [Football World Rankings](https://www.clubworldranking.com/ranking-coaches) and [Wikipedia](https://en.wikipedia.org/wiki/List_of_Premier_League_managers)
+
 For scraping data about managers, I modified the code by Gonza Ferreiro Volpi available [here](https://github.com/gonzaferreiro/Market_value_football_players/blob/master/Team_and_national_teams_ranking_scraps-Final.ipynb).
 
 ## Data cleaning and preprocessing
