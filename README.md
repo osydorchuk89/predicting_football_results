@@ -76,6 +76,7 @@ To evaluate the performance of the model, I used two metrics. On the one hand, I
 To build and train models, I first divided the dataset into train and test sets:
 1. Train - 10 seasons, from 2011/2012 to 2020/2021.
 2. Test - season 2021/2022 (ongoing).
+
 Next, I used 5-fold time series-like validation on the train test to evaluate performance of different models. This allowed me to avoid making predictions of matches outcomes based of the data from the future.
 
 **Validation used for evaluating model performance**
@@ -148,6 +149,7 @@ To allow easy comparison between predicted and actual outcomes of the EPL 2021/2
 Even after tuning and customizing prediction threshold, the accuracy of the model predictions remained quite low. I belive two main factors can explain this:
 1. There is a great deal of randomness in how a given football match unfolds that cannot be captured by any machine learning model.
 2. The features I used in my project are quite limited in their explanatory power.
+
 Therefore, some ideas for improvement of the model performance and accuracy of predictions include:
 * Add more data, e.g. ratings of substitute players and more robust and up-to-date ratings about managers
 * Add more complex features, such as expected goals (xG) of players and teams
