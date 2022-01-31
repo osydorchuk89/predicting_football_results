@@ -21,7 +21,7 @@ The project is divided into three Jupyter notebook and one Python script:
 ## Data Collection
 
 Data for the project was collected from various sources and included information about attributes and rankings of EPL teams, players, and managers during the past 20 seasons, starting from 2001/2002 season. The collected data included:
-* Results of matches from 2001/2002 to 2021/2022 seasons - [Kaggle dataset](https://www.kaggle.com/josephvm/english-premier-league-game-events-and-results) by Joseph Mohr
+* Results and starting lineups of matches from 2001/2002 to 2021/2022 seasons - [Kaggle dataset](https://www.kaggle.com/josephvm/english-premier-league-game-events-and-results) by Joseph Mohr
 * Final standings of teams at the end of each season - [Kaggle dataset](https://www.kaggle.com/josephvm/english-premier-league-game-events-and-results) by Joseph Mohr
 * FIFA rankings of players from 2011/2012 to 2021/2022 seasons - Kaggle datasets by [Dhia Elhak Goumri](https://www.kaggle.com/justdhia/fifa-players) and [Alex](https://www.kaggle.com/cashncarry/fifa-22-complete-player-dataset)
 * FIFA rankings of teams from 2011/2012 to 2021/2022 seasons - scraped from [FIFA Index](https://www.fifaindex.com/teams/)
